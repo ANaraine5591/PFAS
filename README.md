@@ -5,3 +5,6 @@ Research project on PFAS distribution in southern Florida.
 
 ### Overview
 This project will investigate PFAS concentration distribution throughout the region of Southern Florida in various matrices. It aims to visualize the current distribution of PFAS through various matrices including groundwater, surface water, and soil.
+
+### Data
+This research will utilize publicly available data of PFAS samples within the study area.
